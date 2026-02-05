@@ -6,3 +6,4 @@ scikit-learn
 seaborn
 jupyter
 tqdm
+tensorflow
