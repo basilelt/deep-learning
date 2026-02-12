@@ -7,3 +7,6 @@ seaborn
 jupyter
 tqdm
 tensorflow
+scipy
+aeon
+multi-comp-matrix
