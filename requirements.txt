@@ -6,7 +6,7 @@ scikit-learn
 seaborn
 jupyter
 tqdm
-tensorflow
+tensorflow[and-cuda]
 scipy
 aeon
 multi-comp-matrix
