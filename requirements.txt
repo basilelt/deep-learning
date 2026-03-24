@@ -1,12 +1,13 @@
 numpy
 pandas
 ipynb
+ipykernel
 matplotlib
 scikit-learn
 seaborn
 jupyter
 tqdm
-tensorflow[and-cuda]
+tensorflow
 scipy
 aeon
 multi-comp-matrix
